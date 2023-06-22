@@ -1,0 +1,5 @@
+Membuat Model = php artisan make:model (Lokasi Folder) -m
+Membuat Controller = php artisan make:controller Api/Promo/PromoController
+Membuat Email = php artisan make:mail MyTestMail
+
+

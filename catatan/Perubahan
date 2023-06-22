@@ -1,0 +1,7 @@
+Penambahan field di table user_mobile
+1. handphone (Varchar 50)
+2. jenis_oauth (Varchar 50)
+3. is_loggin (Varchar 1)
+
+Perubahan field
+1. Email menjadi boleh null, karena tidak menjadi primary lagi
